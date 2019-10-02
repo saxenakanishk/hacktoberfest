@@ -2432,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kanishk Saxena](https://github.com/saxenakanishk)
+- Place: Bangalore, India
+- Bio: Backend Developer Python
+- Github: [Kanishk Saxena](https://github.com/saxenakanishk)
